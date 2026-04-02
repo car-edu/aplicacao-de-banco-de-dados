@@ -1,0 +1,50 @@
+2026-01-05 Cachaça 10 3,00 Apolo God Zé da Esquina
+2026-01-07 Cerveja 6 10,00 Ártemis Sister João do Pulo
+2026-01-08 Cigarro 10 1,00 Adônis Grega Tião
+2026-01-10 Torresmo 5 5,00 Apolo God Sr. Wilson
+2026-01-12 Conhaque 4 7,00 Apolo God Roberto
+2026-01-15 Pão com mortadela 4 8,00 Adônis Grega Chico Mineiro
+2026-01-18 Caldo de mocotó 3 12,00 Ártemis Sister Dona Maria
+2026-01-20 Cachaça 8 3,00 Apolo God Zé da Esquina
+2026-01-22 Cerveja 10 10,00 Ártemis Sister João do Pulo
+2026-01-25 Espetinho 6 8,00 Adônis Grega Tião
+2026-01-28 Linguiça calabresa 2 25,00 Ártemis Sister Roberto
+2026-01-30 Café 10 2,00 Apolo God Chico Mineiro
+2026-02-02 Coxinha 6 6,00 Adônis Grega Zé da Esquina
+2026-02-04 Cerveja 8 10,00 Ártemis Sister Sr. Wilson
+2026-02- 05 Cigarro 15 1,00 Apolo God Tião
+2026-02-07 Cachaça 12 3,00 Apolo God João do Pulo
+2026-02-10 Dobradinha 3 15,00 Ártemis Sister Roberto
+2026-02- 12 Bolinho de carne 5 6,00 Adônis Grega Dona Maria
+2026-02-15 Queijo coalho 4 7,00 Adônis Grega Chico Mineiro
+2026-02-18 Caldinho de feijão 5 10,00 Ártemis Sister Zé da Esquina
+2026-02-20 Cerveja 12 10,00 Ártemis Sister Sr. Wilson
+2026-02-22 Conhaque 6 7,00 Apolo God Roberto
+2026-02-24 Ovo rosa 10 2,50 Apolo God Tião
+2026-02-26 Espetinho 8 8,00 Adônis Grega João do Pulo
+2026- 02-28 Sardinha 10 4,00 Apolo God Chico Mineiro
+2026-03-02 Cerveja 5 10,00 Ártemis Sister Dona Maria
+2026-03-04 Cigarro 20 1,00 Apolo God Zé da Esquina
+2026-03-05 Cachaça 10 3,00 Apolo God Tião
+2026-03-07 Torresmo 6 5,00 Apolo God Sr. Wilson
+2026-03-09 Pão com mortadela 5 8,00 Adônis Grega Roberto
+2026-03-11 Caldo de mocotó 4 12,00 Ártemis Sister João do Pulo
+2026-03-13 Coxinha 8 6,00 Adônis Grega Chico Mineiro
+2026-03-15 Cerveja 10 10,00 Ártemis Sister Zé da Esquina
+2026-03-17 Linguiça calabresa 3 25,00 Ártemis Sister Dona Maria
+2026-03-19 Amendoim 10 3,00 Adônis Grega Tião
+2026-03-21 Cachaça 15 3,00 Apolo God Sr. Wilson
+2026-03-22 Conhaque 5 7,00 Apolo God João do Pulo
+2026-03-24 Quibe 6 6,00 Adônis Grega Roberto
+2026-03-25 Batata frita 2 20,00 Ártemis Sister Chico Mineiro
+2026-03-26 Café 12 2,00 Apolo God Zé da Esquina
+2026-03-27 Cigarro 12 1,00 Apolo God Dona Maria
+2026-03-28 Cerveja 8 10,00 Ártemis Sister Tião
+2026-03-29 Paçoca 15 1,50 Adônis Grega Sr. Wilson
+2026-03-29 Chiclete 50 0,50 Apolo God Roberto
+2026-03-30 Cachaça 20 3,00 Apolo God João do Pulo
+2026-03-30 Empada 10 5,00 Adônis Grega Chico Mineiro
+2026-03-31 Caldinho de feijão 6 10,00 Ártemis Sister Zé da Esquina
+2026-03-31 Cerveja 12 10,00 Ártemis Sister Sr. Wilson
+2026-03-31 Isqueiro 2 6,00 Adônis Grega Tião
+2026-03-31 Conhaque 4 7,00 Apolo God Roberto.

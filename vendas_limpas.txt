@@ -1,0 +1,78 @@
+2026-03-06 Azeitona 6 10,00 4,20 Hortifruti do Campo | Ártemis Sister | Dona Maria
+2026-03-06 Queijo coalho 10 7,00 3,40 Laticínios da Serra | Adônis Grega | Anônimo
+2026-03-06Linguiça calabresa 5 25,00 11,00 Frigorífico Boi Gordo | Ártemis Sister | Tião
+2026-03-07 Pão com mortadela 18 8,00 3,20 Salgadaria Popular | Adônis Grega | Anônimo
+2026-03-07 Sardinha 15 4,00 1,70 Pescados da Costa | Apolo God | João do Pulo
+2026-03-07 Caldo de mocotó 10 12,00 5,50 Frigorífico Boi Gordo | Ártemis Sister | Anônimo
+2026-03-08 Dobradinha 8 15,00 6,80 Frigorífico Boi Gordo | Ártemis Sister | Zé da Esquina
+2026- 03-08 Caldinho de feijão 15 10,00 4,10 Hortifruti do Campo | Ártemis Sister | Anônimo
+2026-03-08 Refrigerante 30 5,00 2,80 Distribuidora Cevada Pura | Adônis Grega | Sr. Wilson
+2026-03- 09 Água tônica 15 6,00 3,10 Distribuidora Cevada Pura | Apolo God | Anônimo
+2026-03-09 Isqueiro 5 6,00 2,90 Tabacaria Ouro Negro | Adônis Grega | Roberto
+2026-03-09 Fósforo 15 1,00 0,45 Tabacaria Ouro Negro | Adônis Grega | Anônimo
+2026-03-10 Paçoca 20 1,50 0,60 Snacks do Cerrado | Adônis Grega | Chico Mineiro
+2026-03-10 Chiclete 80 0,50 0,15 Snacks do Cerrado | Apolo God | Anônimo
+2026-03-10 Conhaque 12 7,00 3,90 Alambique Velho Oeste | Apolo God | Dona Maria
+2026-03-11 Cerveja 45 10,00 6,50 Distribuidora Cevada Pura | Ártemis Sister | Anônimo
+2026-03-11 Coxinha 28 6,00 2,50 Salgadaria Popular | Adônis Grega | Tião
+2026-03-11 Cachaça 55 3,00 1,20 Alambique Velho Oeste | Apolo God | Anônimo
+2026-03-12 Ovo rosa 22 2,50 1,10 Granja Renascer | Apolo God | João do Pulo
+2026-03-12 Espetinho 20 8,00 3,80 Frigorífico Boi Gordo | Ártemis Sister | Anônimo
+2026-03-12 Bolinho de carne 15 6,00 2,50 Salgadaria Popular | Adônis Grega | Zé da Esquina
+2026-03-13 Risoles 12 6,00 2,50 Salgadaria Popular | Adônis Grega | Anônimo
+2026-03-13 Quibe 15 6,00 2,50 Salgadaria Popular | Adônis Grega | Sr. Wilson
+2026-03-13 Empada 18 5,00 2,10 Salgadaria Popular | Ártemis Sister | Anônimo
+2026-03-14 Torresmo 30 5,00 1,80 Frigorífico Boi Gordo | Apolo God | Roberto
+2026-03-14 Batata frita 10 20,00 8,50 Hortifruti do Campo | Ártemis Sister | Anônimo
+2026-03-14 Amendoim 25 3,00 1,10 Snacks do Cerrado | Adônis Grega | Chico Mineiro
+2026-03-15 Ovo de codorna 45 1,00 0,40 Granja Renascer | Apolo God | Anônimo
+2026-03-15 Azeitona 12 10,00 4,20 Hortifruti do Campo | Ártemis Sister | Dona Maria
+2026-03-15 Queijo coalho 15 7,00 3,40 Laticínios da Serra | Adônis Grega | Anônimo
+2026- 03-16 Linguiça calabresa 8 25,00 11,00 Frigorífico Boi Gordo | Ártemis Sister | Tião
+2026-03-16 Pão com mortadela 20 8,00 3,20 Salgadaria Popular | Adônis Grega | Anônimo
+2026-03-16 Sardinha 22 4,00 1,70 Pescados da Costa | Apolo God | João do Pulo
+2026-03-17 Caldo de mocotó 15 12,00 5,50 Frigorífico Boi Gordo | Ártemis Sister | Anônimo
+2026-03-17 Dobradinha 10 15,00 6,80 Frigorífico Boi Gordo | Ártemis Sister | Zé da Esquina
+2026-03-17 Caldinho de feijão 20 10,00 4,10 Hortifruti do Campo | Ártemis Sister | Anônimo
+2026-03-18 Refrigerante 35 5,00 2,80 Distribuidora Cevada Pura | Adônis Grega | Sr. Wilson
+2026-03- 18 Água tônica 18 6,00 3,10 Distribuidora Cevada Pura | Apolo God | Anônimo
+2026-03-18 Cigarro 75 1,00 0,65 Tabacaria Ouro Negro | Apolo God | Roberto
+2026-03-19 Isqueiro 8 6,00 2,90 Tabacaria Ouro Negro | Adônis Grega | Anônimo
+2026-03-19 Fósforo 20 1,00 0,45 Tabacaria Ouro Negro | Adônis Grega | Chico Mineiro
+2026-03-19 Paçoca 30 1,50 0,60 Snacks do Cerrado | Adônis Grega | Anônimo
+2026-03-20 Chiclete 110 0,50 0,15 Snacks do Cerrado | Apolo God | Dona Maria
+2026-03-20 Conhaque 15 7,00 3,90 Alambique Velho Oeste | Apolo God | Anônimo
+2026-03-20 Café 40 2,00 0,80 Hortifruti do Campo | Apolo God | Tião
+2026-03-21 Cerveja 55 10,00 6,50 Distribuidora Cevada Pura | Ártemis Sister | Anônimo
+2026-03-21 Coxinha 32 6,00 2,50 Salgadaria Popular | Adônis Grega | João do Pulo
+2026-03-21 Cachaça 65 3,00 1,20 Alambique Velho Oeste | Apolo God | Anônimo
+2026-03-22 Ovo rosa 28 2,50 1,10 Granja Renascer | Apolo God | Zé da Esquina
+2026-03-22 Espetinho 22 8,00 3,80 Frigorífico Boi Gordo | Ártemis Sister | Anônimo
+2026- 03-22 Bolinho de carne 18 6,00 2,50 Salgadaria Popular | Adônis Grega | Sr. Wilson
+2026-03-23 Risoles 15 6,00 2,50 Salgadaria Popular | Adônis Grega | Anônimo
+2026-03-23 Quibe 18 6,00 2,50 Salgadaria Popular | Adônis Grega | Roberto
+2026-03-23 Empada 25 5,00 2,10 Salgadaria Popular | Ártemis Sister | Anônimo
+2026-03-24 Torresmo 35 5,00 1,80 Frigorífico Boi Gordo | Apolo God | Chico Mineiro
+2026-03-24 Batata frita 12 20,00 8,50 Hortifruti do Campo | Ártemis Sister | Anônimo
+2026-03-24 Amendoim 30 3,00 1,10 Snacks do Cerrado | Adônis Grega | Dona Maria
+2026-03-25 Ovo de codorna 55 1,00 0,40 Granja Renascer | Apolo God | Anônimo
+2026-03-25 Azeitona 15 10,00 4,20 Hortifruti do Campo | Ártemis Sister | Tião
+2026-03-25 Queijo coalho 18 7,00 3,40 Laticínios da Serra | Adônis Grega | Anônimo
+2026-03-26 Linguiça calabresa 10 25,00 11,00 Frigorífico Boi Gordo | Ártemis Sister | João do Pulo
+2026-03-26 Pão com mortadela 25 8,00 3,20 Salgadaria Popular | Adônis Grega | Anônimo
+2026-03-26 Sardinha 30 4,00 1,70 Pescados da Costa | Apolo God | Zé da Esquina
+2026-03-27 Caldo de mocotó 18 12,00 5,50 Frigorífico Boi Gordo | Ártemis Sister | Anônimo
+2026- 03-27 Dobradinha 12 15,00 6,80 Frigorífico Boi Gordo | Ártemis Sister | Sr. Wilson
+2026-03-27 Caldinho de feijão 25 10,00 4,10 Hortifruti do Campo | Ártemis Sister | Anônimo
+2026-03-28 Refrigerante 40 5,00 2,80 Distribuidora Cevada Pura | Adônis Grega | Roberto
+2026-03-28 Água tônica 20 6,00 3,10 Distribuidora Cevada Pura | Apolo God | Anônimo
+2026-03-28 Cigarro 80 1,00 0,65 Tabacaria Ouro Negro | Apolo God | Chico Mineiro
+2026-03- 29 Isqueiro 10 6,00 2,90 Tabacaria Ouro Negro | Adônis Grega | Anônimo
+2026-03-29 Fósforo 25 1,00 0,45 Tabacaria Ouro Negro | Adônis Grega | Dona Maria
+2026-03-29 Paçoca 35 1,50 0,60 Snacks do Cerrado | Adônis Grega | Anônimo
+2026-03-30 Chiclete 120 0,50 0,15 Snacks do Cerrado | Apolo God | Tião
+2026-03-30 Conhaque 18 7,00 3,90 Alambique Velho Oeste | Apolo God | Anônimo
+2026-03-30 Café 45 2,00 0,80 Hortifruti do Campo | Apolo God | João do Pulo
+2026-03-31 Cerveja 60 10,00 6,50 Distribuidora Cevada Pura | Ártemis Sister | Anônimo
+2026- 03-31 Coxinha 35 6,00 2,50 Salgadaria Popular | Adônis Grega | Zé da Esquina
+2026-03-31 Cachaça 70 3,00 1,20 Alambique Velho Oeste | Apolo God | Anônimo
